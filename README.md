@@ -1,5 +1,5 @@
 #Smart Greenhouse 
-
+this project was in collaboration with 3 other amazing colleagues.
 please check out the project presentation in this pdf : [Project.pdf](https://github.com/Ayyoub-ESSADEQ/Projet-de-prise-en-main/files/12100798/Projets.de.prise.en.main.nouveau.pdf)
 
 
